@@ -1,0 +1,32 @@
+html,body{
+    background-color: pink;
+    padding: 0;
+    margin: 0;
+}
+.wel{
+    background-color :papayawhip ;
+    padding: 20px;
+    margin: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.bbatton{
+    color:whitesmoke ;
+    background-color:peru;
+    display:block;
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+}
+.ol{
+    background-color: aqua;
+    border: 100px;
+    text-align: 50%;
+    padding: 50px;
+    margin: 20px;
+    width: 20px;
+    margin-left: 500px;
+    margin-top: 150;
+
+}

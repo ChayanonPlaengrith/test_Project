@@ -1,0 +1,40 @@
+html,body{
+    background-color: wheat;
+    padding: 0;
+    margin: 0;
+}
+.top-footer{
+    background-color: palevioletred;
+    
+}
+.menu-item{
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    
+}
+.screen{
+    background-color:royalblue ;
+    padding: 25px;
+    margin: 30px;
+    
+}
+.image{
+    width: 30%;
+    border-style:inset;
+}
+.batton{
+    color:whitesmoke ;
+    background-color:rgb(236, 224, 45);
+    display:block;
+    width: 30%;
+    text-align: center;
+    text-decoration: none;
+}
+.botton-footer{
+    color: whitesmoke;
+    background-color: palevioletred;
+    padding: 20;
+}
+

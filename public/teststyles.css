@@ -1,0 +1,16 @@
+
+.screen{
+    color:white;
+    background-color:rgb(55, 59, 73);
+    padding: 25px;
+    margin: 30px;
+    
+}
+.batton{
+    color:black;
+    background-color:rgb(236, 224, 45);
+    display:block;
+    width: 30%;
+    text-align: center;
+    text-decoration: none;
+}

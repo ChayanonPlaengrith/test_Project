@@ -1,0 +1,19 @@
+html,body{
+    background-color: wheat;
+    padding: 0;
+    margin: 0;
+}
+table, th,td{
+    border: 1px wheat;
+    background-color: plum;
+    border: solid whitesmoke;
+
+}
+
+.frame-champoo{
+   margin-left: 500px;
+    background-color: purple;
+    border: 1px;
+    border-style: groove;
+    
+}
